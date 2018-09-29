@@ -1,0 +1,19 @@
+{
+  "name": "localci",
+  "version": "0.1.0",
+  "description": "test runner for front-end web projects",
+  "main": "src/lib.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sintaxi/localci.git"
+  },
+  "author": "Brock Whitten <brock@sintaxi.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sintaxi/localci/issues"
+  },
+  "homepage": "https://github.com/sintaxi/localci#readme"
+}
